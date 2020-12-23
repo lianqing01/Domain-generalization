@@ -33,6 +33,10 @@ Blanchard, Gilles, Gyemin Lee, and Clayton Scott.
 *Advances in neural information processing systems.* (**NIPS**) 2011.
 
 ### arXiv
+- [Empirical or Invariant Risk Minimization? A Sample Complexity Perspective](https://arxiv.org/abs/2010.16412)
+Kartik Ahuja, Jun Wang, Amit Dhurandhar, Karthikeyan Shanmugam, Kush R. Varshney.
+*arXiv preprint arXiv:2010.16412* (2020).
+
 - [The Risks of Invariant Risk Minimization](https://arxiv.org/abs/2010.05761)    
 Rosenfeld, Elan, Pradeep Ravikumar, and Andrej Risteski.  
 *arXiv preprint arXiv:2010.05761* (2020).  
@@ -206,9 +210,17 @@ Khosla, Aditya, Tinghui Zhou, Tomasz Malisiewicz, Alexei A. Efros, and Antonio T
 
 #### Neural network-based methods
 
+- [Domain Generalization via Entropy Regularization](https://proceedings.neurips.cc/paper/2020/hash/b98249b38337c5088bbc660d8f872d6a-Abstract.html)
+Shanshan Zhao, Mingming Gong, Tongliang Liu, Huan Fu, Dacheng Tao.
+*Neural Information Processing Systems* (**NeurIPS**) 2020.   
+
 - (**LDDG**) [Domain Generalization for Medical Imaging Classification with Linear-Dependency Regularization](https://arxiv.org/abs/2009.12829)  
 Li, Haoliang, YuFei Wang, Renjie Wan, Shiqi Wang, Tie-Qiang Li, and Alex C. Kot.  
 *Neural Information Processing Systems* (**NeurIPS**) 2020.   
+
+- (**IRM Game**) [Invariant Risk Minimization Games](https://arxiv.org/abs/2002.04692)
+Kartik Ahuja, Karthikeyan Shanmugam, Kush R. Varshney, Amit Dhurandhar
+*International Conference on Machine Learning* (**ICML**) 2020. 
 
 - (**CSD**) [Efficient Domain Generalization via Common-Specific Low-Rank Decomposition](https://arxiv.org/abs/2003.12815)  
 Vihari Piratla, Praneeth Netrapalli, Sunita Sarawagi  
